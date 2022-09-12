@@ -1,0 +1,5 @@
+Invaders from Space
+version 0.9
+
+level.csv is configuration:
+level_no; enemy_speed; enemy_num; level_time
